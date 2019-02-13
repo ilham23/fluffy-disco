@@ -7143,6 +7143,7 @@
     <Content Include="Content\AdminLTE-2.4.5\bower_components\select2\src\scss\_dropdown.scss" />
     <Content Include="Content\AdminLTE-2.4.5\bower_components\select2\src\scss\_multiple.scss" />
     <Content Include="Content\AdminLTE-2.4.5\bower_components\select2\src\scss\_single.scss" />
+    <Content Include="Content\AdminLTE-2.4.5\bower.json" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
